@@ -1,5 +1,7 @@
 # appendExchangeRateColumn
 
+Working on explanation.
+
 Currently working on under way to prepare this project usable.
 
 This project performs the following tasks:
