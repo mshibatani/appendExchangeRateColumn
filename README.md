@@ -25,7 +25,7 @@
 * Choose a file that includes "Date" column.
 * Choose TTS/TTM/TTB if you want
 * Wait for complete.
-* The result file will be at the save location you chose. There is "_out.csv" at the end of the name of the file.
+* The result file will be at the save location you chose. There is "_out.csv" at the end of the file name.
 
 ## Required modules: 使用モジュール
 * pandas
