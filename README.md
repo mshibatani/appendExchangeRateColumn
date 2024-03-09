@@ -20,7 +20,7 @@
 * macOS
 
 ## How to run the tool: 実行手順
-* Prepare python envinrnment (Install modules below)
+* Prepare python envinrnment (Install modules below) 
 * Run "python appendExchangeRateColumn.py" in Terminal.app
 * Choose a file that includes "Date" column.
 * Choose TTS/TTM/TTB if you want
@@ -31,4 +31,4 @@
 * pandas
 * chardet
 * percache
-* PySimpleGUI
+* PySimpleGUI (You need to install 'Tkinter' like `brew install tcl-tk`)
